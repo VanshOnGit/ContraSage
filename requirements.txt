@@ -1,0 +1,11 @@
+streamlit
+pandas
+fpdf
+Pillow
+jinja2
+nltk
+langchain
+langchain-community
+langchain-huggingface
+faiss-cpu
+guardrails-ai
