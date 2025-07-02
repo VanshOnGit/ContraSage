@@ -1,0 +1,35 @@
+<rail version="0.1">
+
+  <output>
+    <object>
+      <bool name="conflict_found" description="Whether any contradiction was detected" />
+
+      <list name="conflict_pairs">
+        <object>
+          <string name="text_1">
+            <validators>
+              <not_equal other="text_2" description="text_1 and text_2 should not be identical." />
+              <length min="5" description="text_1 must be at least 5 characters long." />
+            </validators>
+          </string>
+
+          <string name="text_2">
+            <validators>
+              <length min="5" description="text_2 must be at least 5 characters long." />
+            </validators>
+          </string>
+
+          <string name="reason">
+            <validators>
+              <regex pattern="^(?!.*(fuck|shit|damn|hell|crap|bitch|bastard)).*$"
+                     description="Reason must not contain profanity." />
+              <length min="10" description="Reason must be at least 10 characters." />
+            </validators>
+          </string>
+        </object>
+      </list>
+
+    </object>
+  </output>
+
+</rail>
