@@ -1,6 +1,9 @@
-# ContraSage
+<p align="center">
+  <img src="logo/ContraSageLogo.png" alt="ContraSage Logo" width="300"/>
+</p>
 
 **ContraSage** is a simple but smart tool that finds contradictions in documents.
+
 
 Just upload your PDFs, text files, or markdown notes and it will highlight if any parts say different or opposite things by asking your own question while it scans.
 
