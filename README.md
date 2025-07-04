@@ -12,7 +12,7 @@ Just upload your PDFs, text files, or markdown notes and it will highlight if an
 - Works with `.pdf`, `.txt`, and `.md` files  
 - Uses a local AI model (Mistral via Ollama) — fast and private  
 - Gives clear results with file names and reasons  
-- Lets you download a CSV or PDF of all contradictions found  
+- Lets you download a CSV of all contradictions found  
 
 **Note:** Since Ollama runs locally on your machine, ContraSage cannot be deployed to public platforms like Streamlit Cloud.
 
