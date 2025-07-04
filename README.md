@@ -2,7 +2,7 @@
 
 **ContraSage** is a simple but smart tool that finds contradictions in documents.
 
-Just upload your PDFs, text files, or markdown notes — and it will highlight if any parts say different or opposite things. You can also ask your own question while it scans.
+Just upload your PDFs, text files, or markdown notes and it will highlight if any parts say different or opposite things by asking your own question while it scans.
 
 ---
 
@@ -36,8 +36,8 @@ Just upload your PDFs, text files, or markdown notes — and it will highlight i
    ```
 
 4. Upload your documents  
-5. Ask a contradiction-related question (or leave it blank)  
-6. See results and download them as CSV or PDF  
+5. Ask a contradiction-related question. 
+6. See results and download them as CSV  
 
 ---
 
