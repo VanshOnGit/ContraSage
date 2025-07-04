@@ -7,7 +7,6 @@ sys.path.append(os.path.abspath("."))
 
 from rag.doc_loader import load_documents, split_documents
 
-# GLOBAL CACHE
 _cached_vectorstore = None
 
 def create_vectorstore():
