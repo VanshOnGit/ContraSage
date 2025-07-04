@@ -1,4 +1,3 @@
-```markdown
 # 🧠 ContraSage
 
 **ContraSage** is a simple but smart tool that finds contradictions in documents.
