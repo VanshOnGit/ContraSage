@@ -1,4 +1,4 @@
-# 🧠 ContraSage
+# ContraSage
 
 **ContraSage** is a simple but smart tool that finds contradictions in documents.
 
@@ -6,7 +6,7 @@ Just upload your PDFs, text files, or markdown notes and it will highlight if an
 
 ---
 
-## ✨ What It Does
+## What It Does
 
 - Finds logical or factual contradictions in writing  
 - Works with `.pdf`, `.txt`, and `.md` files  
@@ -14,11 +14,11 @@ Just upload your PDFs, text files, or markdown notes and it will highlight if an
 - Gives clear results with file names and reasons  
 - Lets you download a CSV or PDF of all contradictions found  
 
-⚠️ **Note:** Since Ollama runs locally on your machine, ContraSage cannot be deployed to public platforms like Streamlit Cloud.
+**Note:** Since Ollama runs locally on your machine, ContraSage cannot be deployed to public platforms like Streamlit Cloud.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Install the required packages:
    ```bash
